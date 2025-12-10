@@ -57,8 +57,6 @@ You can easily add support for more protocols:
 - SSL/TLS
 - DHCP
 
-Ask if you want me to generate protocol decoders for any of these.
-
 ## 🔒 Permissions & Limitations
 
 Raw sockets require sudo on Linux:
