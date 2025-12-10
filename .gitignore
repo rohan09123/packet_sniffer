@@ -1,0 +1,125 @@
+##############################
+# Python
+##############################
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+pytest_cache/
+coverage.xml
+*.cover
+*.py,cover
+
+##############################
+# Virtual Environments
+##############################
+venv/
+ENV/
+env/
+.venv/
+
+##############################
+# Editor Settings
+##############################
+
+# VS Code
+.vscode/
+.code-workspace
+
+# PyCharm / JetBrains
+.idea/
+*.iml
+
+##############################
+# OS Files
+##############################
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+*.swp
+*.swo
+
+##############################
+# Logs & Temp Files
+##############################
+*.log
+logs/
+tmp/
+temp/
+
+##############################
+# Environments & Secrets
+##############################
+.env
+.env.*
+
+##############################
+# VirtualBox Related
+##############################
+*.vbox
+*.vbox-prev
+*.vdi
+*.ova
+*.ovf
+
+##############################
+# Packet Sniffer Project Specific
+##############################
+
+# Raw capture files (if you add pcap saving later)
+*.pcap
+*.pcapng
+
+# Ignore compiled capture artifacts
+captures/
+output/
+
+##############################
+# Git
+##############################
+.gitignore
+.gitattributes
